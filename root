@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Kuis Geografi & Sejarah</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Kuis Geografi & Sejarah 🌏📜</h1>
+    <div id="quiz-container"></div>
+    <button onclick="showScore()">Lihat Skor</button>
+    <p id="score-output"></p>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
